@@ -1,0 +1,4 @@
+2022-02-24 19:50:09,863 INFO ml 178 measures:: ------------------------------------
+2022-02-24 19:50:09,864 INFO ml 180 measures:: clf_name: LogisticRegression
+2022-02-24 19:50:09,865 INFO ml 180 measures:: name: test set
+2022-02-24 19:50:09,865 INFO ml 180 measures:: mean_squared_error: 0.09253125
